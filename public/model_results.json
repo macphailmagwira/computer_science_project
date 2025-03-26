@@ -1,0 +1,1608 @@
+{
+    "prediction_results": [
+        {
+            "race_id": 331,
+            "actual_finish_position": 12,
+            "predicted_finish_position": 5,
+            "finish_prediction_probability": 0.35,
+            "actual_points": 0,
+            "predicted_points": 6.96
+        },
+        {
+            "race_id": 247,
+            "actual_finish_position": 8,
+            "predicted_finish_position": 12,
+            "finish_prediction_probability": 0.17,
+            "actual_points": 4,
+            "predicted_points": 4.85
+        },
+        {
+            "race_id": 790,
+            "actual_finish_position": 11,
+            "predicted_finish_position": 2,
+            "finish_prediction_probability": 0.21,
+            "actual_points": 0,
+            "predicted_points": 6.6
+        },
+        {
+            "race_id": 316,
+            "actual_finish_position": 17,
+            "predicted_finish_position": 16,
+            "finish_prediction_probability": 0.22,
+            "actual_points": 0,
+            "predicted_points": 6.94
+        },
+        {
+            "race_id": 215,
+            "actual_finish_position": 16,
+            "predicted_finish_position": 11,
+            "finish_prediction_probability": 0.33,
+            "actual_points": 0,
+            "predicted_points": 5.06
+        },
+        {
+            "race_id": 680,
+            "actual_finish_position": 1,
+            "predicted_finish_position": 14,
+            "finish_prediction_probability": 0.21,
+            "actual_points": 25,
+            "predicted_points": 8.89
+        },
+        {
+            "race_id": 585,
+            "actual_finish_position": 6,
+            "predicted_finish_position": 20,
+            "finish_prediction_probability": 0.15,
+            "actual_points": 8,
+            "predicted_points": 6.61
+        },
+        {
+            "race_id": 462,
+            "actual_finish_position": 3,
+            "predicted_finish_position": 11,
+            "finish_prediction_probability": 0.32,
+            "actual_points": 15,
+            "predicted_points": 7.26
+        },
+        {
+            "race_id": 815,
+            "actual_finish_position": 16,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.29,
+            "actual_points": 0,
+            "predicted_points": 8.35
+        },
+        {
+            "race_id": 39,
+            "actual_finish_position": 20,
+            "predicted_finish_position": 13,
+            "finish_prediction_probability": 0.24,
+            "actual_points": 0,
+            "predicted_points": 4.11
+        },
+        {
+            "race_id": 430,
+            "actual_finish_position": 11,
+            "predicted_finish_position": 10,
+            "finish_prediction_probability": 0.18,
+            "actual_points": 0,
+            "predicted_points": 5.3
+        },
+        {
+            "race_id": 696,
+            "actual_finish_position": 17,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.19,
+            "actual_points": 0,
+            "predicted_points": 4.18
+        },
+        {
+            "race_id": 875,
+            "actual_finish_position": 16,
+            "predicted_finish_position": 5,
+            "finish_prediction_probability": 0.18,
+            "actual_points": 0,
+            "predicted_points": 8.97
+        },
+        {
+            "race_id": 328,
+            "actual_finish_position": 9,
+            "predicted_finish_position": 1,
+            "finish_prediction_probability": 0.29,
+            "actual_points": 2,
+            "predicted_points": 12.14
+        },
+        {
+            "race_id": 611,
+            "actual_finish_position": 12,
+            "predicted_finish_position": 15,
+            "finish_prediction_probability": 0.18,
+            "actual_points": 0,
+            "predicted_points": 3.02
+        },
+        {
+            "race_id": 23,
+            "actual_finish_position": 4,
+            "predicted_finish_position": 13,
+            "finish_prediction_probability": 0.46,
+            "actual_points": 12,
+            "predicted_points": 5.23
+        },
+        {
+            "race_id": 501,
+            "actual_finish_position": 2,
+            "predicted_finish_position": 13,
+            "finish_prediction_probability": 0.17,
+            "actual_points": 18,
+            "predicted_points": 5.35
+        },
+        {
+            "race_id": 198,
+            "actual_finish_position": 19,
+            "predicted_finish_position": 11,
+            "finish_prediction_probability": 0.14,
+            "actual_points": 0,
+            "predicted_points": 5.68
+        },
+        {
+            "race_id": 110,
+            "actual_finish_position": 11,
+            "predicted_finish_position": 3,
+            "finish_prediction_probability": 0.19,
+            "actual_points": 0,
+            "predicted_points": 5.53
+        },
+        {
+            "race_id": 728,
+            "actual_finish_position": 9,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.29,
+            "actual_points": 2,
+            "predicted_points": 5.79
+        },
+        {
+            "race_id": 673,
+            "actual_finish_position": 14,
+            "predicted_finish_position": 12,
+            "finish_prediction_probability": 0.29,
+            "actual_points": 0,
+            "predicted_points": 8.12
+        },
+        {
+            "race_id": 426,
+            "actual_finish_position": 7,
+            "predicted_finish_position": 14,
+            "finish_prediction_probability": 0.13,
+            "actual_points": 6,
+            "predicted_points": 6.6
+        },
+        {
+            "race_id": 786,
+            "actual_finish_position": 7,
+            "predicted_finish_position": 9,
+            "finish_prediction_probability": 0.19,
+            "actual_points": 6,
+            "predicted_points": 4.98
+        },
+        {
+            "race_id": 66,
+            "actual_finish_position": 7,
+            "predicted_finish_position": 16,
+            "finish_prediction_probability": 0.42,
+            "actual_points": 6,
+            "predicted_points": 2.25
+        },
+        {
+            "race_id": 44,
+            "actual_finish_position": 5,
+            "predicted_finish_position": 4,
+            "finish_prediction_probability": 0.36,
+            "actual_points": 10,
+            "predicted_points": 6.15
+        },
+        {
+            "race_id": 684,
+            "actual_finish_position": 5,
+            "predicted_finish_position": 13,
+            "finish_prediction_probability": 0.19,
+            "actual_points": 10,
+            "predicted_points": 2.89
+        },
+        {
+            "race_id": 808,
+            "actual_finish_position": 9,
+            "predicted_finish_position": 4,
+            "finish_prediction_probability": 0.21,
+            "actual_points": 2,
+            "predicted_points": 8.8
+        },
+        {
+            "race_id": 76,
+            "actual_finish_position": 17,
+            "predicted_finish_position": 15,
+            "finish_prediction_probability": 0.26,
+            "actual_points": 0,
+            "predicted_points": 8.15
+        },
+        {
+            "race_id": 678,
+            "actual_finish_position": 19,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.21,
+            "actual_points": 0,
+            "predicted_points": 7.45
+        },
+        {
+            "race_id": 67,
+            "actual_finish_position": 8,
+            "predicted_finish_position": 2,
+            "finish_prediction_probability": 0.34,
+            "actual_points": 4,
+            "predicted_points": 12.03
+        },
+        {
+            "race_id": 30,
+            "actual_finish_position": 11,
+            "predicted_finish_position": 5,
+            "finish_prediction_probability": 0.14,
+            "actual_points": 0,
+            "predicted_points": 7.89
+        },
+        {
+            "race_id": 792,
+            "actual_finish_position": 13,
+            "predicted_finish_position": 8,
+            "finish_prediction_probability": 0.25,
+            "actual_points": 0,
+            "predicted_points": 2.97
+        },
+        {
+            "race_id": 86,
+            "actual_finish_position": 7,
+            "predicted_finish_position": 13,
+            "finish_prediction_probability": 0.17,
+            "actual_points": 6,
+            "predicted_points": 7.29
+        },
+        {
+            "race_id": 432,
+            "actual_finish_position": 13,
+            "predicted_finish_position": 15,
+            "finish_prediction_probability": 0.23,
+            "actual_points": 0,
+            "predicted_points": 4.4
+        },
+        {
+            "race_id": 623,
+            "actual_finish_position": 4,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.18,
+            "actual_points": 12,
+            "predicted_points": 5.32
+        },
+        {
+            "race_id": 286,
+            "actual_finish_position": 7,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.18,
+            "actual_points": 6,
+            "predicted_points": 11.95
+        },
+        {
+            "race_id": 299,
+            "actual_finish_position": 20,
+            "predicted_finish_position": 18,
+            "finish_prediction_probability": 0.22,
+            "actual_points": 0,
+            "predicted_points": 6.48
+        },
+        {
+            "race_id": 70,
+            "actual_finish_position": 11,
+            "predicted_finish_position": 3,
+            "finish_prediction_probability": 0.11,
+            "actual_points": 0,
+            "predicted_points": 6.94
+        },
+        {
+            "race_id": 809,
+            "actual_finish_position": 10,
+            "predicted_finish_position": 1,
+            "finish_prediction_probability": 0.19,
+            "actual_points": 1,
+            "predicted_points": 13.7
+        },
+        {
+            "race_id": 523,
+            "actual_finish_position": 4,
+            "predicted_finish_position": 2,
+            "finish_prediction_probability": 0.37,
+            "actual_points": 12,
+            "predicted_points": 9.27
+        },
+        {
+            "race_id": 530,
+            "actual_finish_position": 11,
+            "predicted_finish_position": 1,
+            "finish_prediction_probability": 0.27,
+            "actual_points": 0,
+            "predicted_points": 7.93
+        },
+        {
+            "race_id": 120,
+            "actual_finish_position": 1,
+            "predicted_finish_position": 4,
+            "finish_prediction_probability": 0.35,
+            "actual_points": 25,
+            "predicted_points": 7.49
+        },
+        {
+            "race_id": 312,
+            "actual_finish_position": 13,
+            "predicted_finish_position": 20,
+            "finish_prediction_probability": 0.17,
+            "actual_points": 0,
+            "predicted_points": 4.18
+        },
+        {
+            "race_id": 174,
+            "actual_finish_position": 15,
+            "predicted_finish_position": 19,
+            "finish_prediction_probability": 0.25,
+            "actual_points": 0,
+            "predicted_points": 5.2
+        },
+        {
+            "race_id": 137,
+            "actual_finish_position": 18,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.29,
+            "actual_points": 0,
+            "predicted_points": 7.39
+        },
+        {
+            "race_id": 139,
+            "actual_finish_position": 20,
+            "predicted_finish_position": 19,
+            "finish_prediction_probability": 0.14,
+            "actual_points": 0,
+            "predicted_points": 1.95
+        },
+        {
+            "race_id": 72,
+            "actual_finish_position": 13,
+            "predicted_finish_position": 20,
+            "finish_prediction_probability": 0.38,
+            "actual_points": 0,
+            "predicted_points": 2.56
+        },
+        {
+            "race_id": 570,
+            "actual_finish_position": 11,
+            "predicted_finish_position": 3,
+            "finish_prediction_probability": 0.38,
+            "actual_points": 0,
+            "predicted_points": 6.13
+        },
+        {
+            "race_id": 298,
+            "actual_finish_position": 19,
+            "predicted_finish_position": 10,
+            "finish_prediction_probability": 0.21,
+            "actual_points": 0,
+            "predicted_points": 6.93
+        },
+        {
+            "race_id": 513,
+            "actual_finish_position": 14,
+            "predicted_finish_position": 20,
+            "finish_prediction_probability": 0.29,
+            "actual_points": 0,
+            "predicted_points": 2.19
+        },
+        {
+            "race_id": 529,
+            "actual_finish_position": 10,
+            "predicted_finish_position": 5,
+            "finish_prediction_probability": 0.32,
+            "actual_points": 1,
+            "predicted_points": 2.52
+        },
+        {
+            "race_id": 507,
+            "actual_finish_position": 8,
+            "predicted_finish_position": 17,
+            "finish_prediction_probability": 0.18,
+            "actual_points": 4,
+            "predicted_points": 4.84
+        },
+        {
+            "race_id": 825,
+            "actual_finish_position": 6,
+            "predicted_finish_position": 18,
+            "finish_prediction_probability": 0.25,
+            "actual_points": 8,
+            "predicted_points": 4.06
+        },
+        {
+            "race_id": 615,
+            "actual_finish_position": 16,
+            "predicted_finish_position": 10,
+            "finish_prediction_probability": 0.25,
+            "actual_points": 0,
+            "predicted_points": 2.46
+        },
+        {
+            "race_id": 866,
+            "actual_finish_position": 7,
+            "predicted_finish_position": 18,
+            "finish_prediction_probability": 0.22,
+            "actual_points": 6,
+            "predicted_points": 5.63
+        },
+        {
+            "race_id": 499,
+            "actual_finish_position": 20,
+            "predicted_finish_position": 14,
+            "finish_prediction_probability": 0.29,
+            "actual_points": 0,
+            "predicted_points": 4.53
+        },
+        {
+            "race_id": 448,
+            "actual_finish_position": 9,
+            "predicted_finish_position": 12,
+            "finish_prediction_probability": 0.23,
+            "actual_points": 2,
+            "predicted_points": 4.99
+        },
+        {
+            "race_id": 589,
+            "actual_finish_position": 10,
+            "predicted_finish_position": 8,
+            "finish_prediction_probability": 0.14,
+            "actual_points": 1,
+            "predicted_points": 3.75
+        },
+        {
+            "race_id": 638,
+            "actual_finish_position": 19,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.29,
+            "actual_points": 0,
+            "predicted_points": 9.01
+        },
+        {
+            "race_id": 323,
+            "actual_finish_position": 4,
+            "predicted_finish_position": 20,
+            "finish_prediction_probability": 0.39,
+            "actual_points": 12,
+            "predicted_points": 5.38
+        },
+        {
+            "race_id": 811,
+            "actual_finish_position": 12,
+            "predicted_finish_position": 18,
+            "finish_prediction_probability": 0.29,
+            "actual_points": 0,
+            "predicted_points": 5.7
+        },
+        {
+            "race_id": 643,
+            "actual_finish_position": 4,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.34,
+            "actual_points": 12,
+            "predicted_points": 6.22
+        },
+        {
+            "race_id": 306,
+            "actual_finish_position": 7,
+            "predicted_finish_position": 12,
+            "finish_prediction_probability": 0.34,
+            "actual_points": 6,
+            "predicted_points": 5.05
+        },
+        {
+            "race_id": 833,
+            "actual_finish_position": 14,
+            "predicted_finish_position": 13,
+            "finish_prediction_probability": 0.18,
+            "actual_points": 0,
+            "predicted_points": 5.98
+        },
+        {
+            "race_id": 650,
+            "actual_finish_position": 11,
+            "predicted_finish_position": 5,
+            "finish_prediction_probability": 0.15,
+            "actual_points": 0,
+            "predicted_points": 4.12
+        },
+        {
+            "race_id": 96,
+            "actual_finish_position": 17,
+            "predicted_finish_position": 14,
+            "finish_prediction_probability": 0.21,
+            "actual_points": 0,
+            "predicted_points": 9.72
+        },
+        {
+            "race_id": 572,
+            "actual_finish_position": 13,
+            "predicted_finish_position": 2,
+            "finish_prediction_probability": 0.38,
+            "actual_points": 0,
+            "predicted_points": 11.32
+        },
+        {
+            "race_id": 467,
+            "actual_finish_position": 8,
+            "predicted_finish_position": 12,
+            "finish_prediction_probability": 0.14,
+            "actual_points": 4,
+            "predicted_points": 5.48
+        },
+        {
+            "race_id": 856,
+            "actual_finish_position": 17,
+            "predicted_finish_position": 15,
+            "finish_prediction_probability": 0.34,
+            "actual_points": 0,
+            "predicted_points": 4.24
+        },
+        {
+            "race_id": 762,
+            "actual_finish_position": 3,
+            "predicted_finish_position": 1,
+            "finish_prediction_probability": 0.24,
+            "actual_points": 15,
+            "predicted_points": 7.55
+        },
+        {
+            "race_id": 812,
+            "actual_finish_position": 13,
+            "predicted_finish_position": 16,
+            "finish_prediction_probability": 0.17,
+            "actual_points": 0,
+            "predicted_points": 3.75
+        },
+        {
+            "race_id": 595,
+            "actual_finish_position": 16,
+            "predicted_finish_position": 12,
+            "finish_prediction_probability": 0.21,
+            "actual_points": 0,
+            "predicted_points": 3.08
+        },
+        {
+            "race_id": 213,
+            "actual_finish_position": 14,
+            "predicted_finish_position": 7,
+            "finish_prediction_probability": 0.41,
+            "actual_points": 0,
+            "predicted_points": 6.72
+        },
+        {
+            "race_id": 487,
+            "actual_finish_position": 8,
+            "predicted_finish_position": 12,
+            "finish_prediction_probability": 0.21,
+            "actual_points": 4,
+            "predicted_points": 3.73
+        },
+        {
+            "race_id": 532,
+            "actual_finish_position": 13,
+            "predicted_finish_position": 1,
+            "finish_prediction_probability": 0.4,
+            "actual_points": 0,
+            "predicted_points": 12.21
+        },
+        {
+            "race_id": 859,
+            "actual_finish_position": 20,
+            "predicted_finish_position": 1,
+            "finish_prediction_probability": 0.2,
+            "actual_points": 0,
+            "predicted_points": 9.02
+        },
+        {
+            "race_id": 431,
+            "actual_finish_position": 12,
+            "predicted_finish_position": 20,
+            "finish_prediction_probability": 0.22,
+            "actual_points": 0,
+            "predicted_points": 5.29
+        },
+        {
+            "race_id": 244,
+            "actual_finish_position": 5,
+            "predicted_finish_position": 11,
+            "finish_prediction_probability": 0.19,
+            "actual_points": 10,
+            "predicted_points": 4.83
+        },
+        {
+            "race_id": 708,
+            "actual_finish_position": 9,
+            "predicted_finish_position": 19,
+            "finish_prediction_probability": 0.25,
+            "actual_points": 2,
+            "predicted_points": 7.19
+        },
+        {
+            "race_id": 716,
+            "actual_finish_position": 17,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.49,
+            "actual_points": 0,
+            "predicted_points": 10.3
+        },
+        {
+            "race_id": 551,
+            "actual_finish_position": 12,
+            "predicted_finish_position": 7,
+            "finish_prediction_probability": 0.51,
+            "actual_points": 0,
+            "predicted_points": 6.55
+        },
+        {
+            "race_id": 380,
+            "actual_finish_position": 1,
+            "predicted_finish_position": 5,
+            "finish_prediction_probability": 0.35,
+            "actual_points": 25,
+            "predicted_points": 4.75
+        },
+        {
+            "race_id": 453,
+            "actual_finish_position": 14,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.4,
+            "actual_points": 0,
+            "predicted_points": 7.34
+        },
+        {
+            "race_id": 196,
+            "actual_finish_position": 17,
+            "predicted_finish_position": 16,
+            "finish_prediction_probability": 0.19,
+            "actual_points": 0,
+            "predicted_points": 8.51
+        },
+        {
+            "race_id": 660,
+            "actual_finish_position": 1,
+            "predicted_finish_position": 15,
+            "finish_prediction_probability": 0.22,
+            "actual_points": 25,
+            "predicted_points": 6.99
+        },
+        {
+            "race_id": 582,
+            "actual_finish_position": 3,
+            "predicted_finish_position": 3,
+            "finish_prediction_probability": 0.22,
+            "actual_points": 15,
+            "predicted_points": 6.78
+        },
+        {
+            "race_id": 575,
+            "actual_finish_position": 16,
+            "predicted_finish_position": 19,
+            "finish_prediction_probability": 0.17,
+            "actual_points": 0,
+            "predicted_points": 6.02
+        },
+        {
+            "race_id": 396,
+            "actual_finish_position": 17,
+            "predicted_finish_position": 2,
+            "finish_prediction_probability": 0.18,
+            "actual_points": 0,
+            "predicted_points": 7.34
+        },
+        {
+            "race_id": 865,
+            "actual_finish_position": 6,
+            "predicted_finish_position": 15,
+            "finish_prediction_probability": 0.14,
+            "actual_points": 8,
+            "predicted_points": 5.55
+        },
+        {
+            "race_id": 422,
+            "actual_finish_position": 3,
+            "predicted_finish_position": 20,
+            "finish_prediction_probability": 0.2,
+            "actual_points": 15,
+            "predicted_points": 6.51
+        },
+        {
+            "race_id": 869,
+            "actual_finish_position": 10,
+            "predicted_finish_position": 13,
+            "finish_prediction_probability": 0.3,
+            "actual_points": 1,
+            "predicted_points": 8.03
+        },
+        {
+            "race_id": 332,
+            "actual_finish_position": 13,
+            "predicted_finish_position": 17,
+            "finish_prediction_probability": 0.29,
+            "actual_points": 0,
+            "predicted_points": 1.87
+        },
+        {
+            "race_id": 843,
+            "actual_finish_position": 4,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.24,
+            "actual_points": 12,
+            "predicted_points": 7.78
+        },
+        {
+            "race_id": 314,
+            "actual_finish_position": 15,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.16,
+            "actual_points": 0,
+            "predicted_points": 6.18
+        },
+        {
+            "race_id": 168,
+            "actual_finish_position": 9,
+            "predicted_finish_position": 8,
+            "finish_prediction_probability": 0.19,
+            "actual_points": 2,
+            "predicted_points": 5.87
+        },
+        {
+            "race_id": 327,
+            "actual_finish_position": 8,
+            "predicted_finish_position": 15,
+            "finish_prediction_probability": 0.18,
+            "actual_points": 4,
+            "predicted_points": 2.67
+        },
+        {
+            "race_id": 768,
+            "actual_finish_position": 9,
+            "predicted_finish_position": 7,
+            "finish_prediction_probability": 0.24,
+            "actual_points": 2,
+            "predicted_points": 5.16
+        },
+        {
+            "race_id": 390,
+            "actual_finish_position": 11,
+            "predicted_finish_position": 18,
+            "finish_prediction_probability": 0.46,
+            "actual_points": 0,
+            "predicted_points": 2.3
+        },
+        {
+            "race_id": 657,
+            "actual_finish_position": 18,
+            "predicted_finish_position": 15,
+            "finish_prediction_probability": 0.13,
+            "actual_points": 0,
+            "predicted_points": 6.63
+        },
+        {
+            "race_id": 644,
+            "actual_finish_position": 5,
+            "predicted_finish_position": 16,
+            "finish_prediction_probability": 0.22,
+            "actual_points": 10,
+            "predicted_points": 6.08
+        },
+        {
+            "race_id": 63,
+            "actual_finish_position": 4,
+            "predicted_finish_position": 1,
+            "finish_prediction_probability": 0.15,
+            "actual_points": 12,
+            "predicted_points": 6.8
+        },
+        {
+            "race_id": 569,
+            "actual_finish_position": 10,
+            "predicted_finish_position": 9,
+            "finish_prediction_probability": 0.23,
+            "actual_points": 1,
+            "predicted_points": 5.35
+        },
+        {
+            "race_id": 136,
+            "actual_finish_position": 17,
+            "predicted_finish_position": 11,
+            "finish_prediction_probability": 0.16,
+            "actual_points": 0,
+            "predicted_points": 3.68
+        },
+        {
+            "race_id": 346,
+            "actual_finish_position": 7,
+            "predicted_finish_position": 9,
+            "finish_prediction_probability": 0.14,
+            "actual_points": 6,
+            "predicted_points": 5.11
+        },
+        {
+            "race_id": 65,
+            "actual_finish_position": 6,
+            "predicted_finish_position": 14,
+            "finish_prediction_probability": 0.17,
+            "actual_points": 8,
+            "predicted_points": 7.35
+        },
+        {
+            "race_id": 292,
+            "actual_finish_position": 13,
+            "predicted_finish_position": 1,
+            "finish_prediction_probability": 0.38,
+            "actual_points": 0,
+            "predicted_points": 14.53
+        },
+        {
+            "race_id": 481,
+            "actual_finish_position": 2,
+            "predicted_finish_position": 8,
+            "finish_prediction_probability": 0.25,
+            "actual_points": 18,
+            "predicted_points": 4.94
+        },
+        {
+            "race_id": 710,
+            "actual_finish_position": 11,
+            "predicted_finish_position": 15,
+            "finish_prediction_probability": 0.11,
+            "actual_points": 0,
+            "predicted_points": 4.14
+        },
+        {
+            "race_id": 78,
+            "actual_finish_position": 19,
+            "predicted_finish_position": 14,
+            "finish_prediction_probability": 0.19,
+            "actual_points": 0,
+            "predicted_points": 4.69
+        },
+        {
+            "race_id": 794,
+            "actual_finish_position": 15,
+            "predicted_finish_position": 1,
+            "finish_prediction_probability": 0.13,
+            "actual_points": 0,
+            "predicted_points": 7.28
+        },
+        {
+            "race_id": 281,
+            "actual_finish_position": 2,
+            "predicted_finish_position": 10,
+            "finish_prediction_probability": 0.18,
+            "actual_points": 18,
+            "predicted_points": 7.86
+        },
+        {
+            "race_id": 590,
+            "actual_finish_position": 11,
+            "predicted_finish_position": 8,
+            "finish_prediction_probability": 0.17,
+            "actual_points": 0,
+            "predicted_points": 4.42
+        },
+        {
+            "race_id": 552,
+            "actual_finish_position": 13,
+            "predicted_finish_position": 2,
+            "finish_prediction_probability": 0.21,
+            "actual_points": 0,
+            "predicted_points": 10.13
+        },
+        {
+            "race_id": 302,
+            "actual_finish_position": 3,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.24,
+            "actual_points": 15,
+            "predicted_points": 6.29
+        },
+        {
+            "race_id": 536,
+            "actual_finish_position": 17,
+            "predicted_finish_position": 20,
+            "finish_prediction_probability": 0.19,
+            "actual_points": 0,
+            "predicted_points": 5.43
+        },
+        {
+            "race_id": 411,
+            "actual_finish_position": 12,
+            "predicted_finish_position": 4,
+            "finish_prediction_probability": 0.14,
+            "actual_points": 0,
+            "predicted_points": 4.87
+        },
+        {
+            "race_id": 383,
+            "actual_finish_position": 4,
+            "predicted_finish_position": 7,
+            "finish_prediction_probability": 0.19,
+            "actual_points": 12,
+            "predicted_points": 4.57
+        },
+        {
+            "race_id": 518,
+            "actual_finish_position": 19,
+            "predicted_finish_position": 7,
+            "finish_prediction_probability": 0.2,
+            "actual_points": 0,
+            "predicted_points": 7.97
+        },
+        {
+            "race_id": 773,
+            "actual_finish_position": 14,
+            "predicted_finish_position": 2,
+            "finish_prediction_probability": 0.25,
+            "actual_points": 0,
+            "predicted_points": 6.85
+        },
+        {
+            "race_id": 192,
+            "actual_finish_position": 13,
+            "predicted_finish_position": 9,
+            "finish_prediction_probability": 0.24,
+            "actual_points": 0,
+            "predicted_points": 7.24
+        },
+        {
+            "race_id": 409,
+            "actual_finish_position": 10,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.15,
+            "actual_points": 1,
+            "predicted_points": 5.94
+        },
+        {
+            "race_id": 49,
+            "actual_finish_position": 10,
+            "predicted_finish_position": 4,
+            "finish_prediction_probability": 0.25,
+            "actual_points": 1,
+            "predicted_points": 7.19
+        },
+        {
+            "race_id": 367,
+            "actual_finish_position": 8,
+            "predicted_finish_position": 9,
+            "finish_prediction_probability": 0.28,
+            "actual_points": 4,
+            "predicted_points": 4.9
+        },
+        {
+            "race_id": 823,
+            "actual_finish_position": 4,
+            "predicted_finish_position": 2,
+            "finish_prediction_probability": 0.26,
+            "actual_points": 12,
+            "predicted_points": 10.87
+        },
+        {
+            "race_id": 209,
+            "actual_finish_position": 10,
+            "predicted_finish_position": 1,
+            "finish_prediction_probability": 0.16,
+            "actual_points": 1,
+            "predicted_points": 12.96
+        },
+        {
+            "race_id": 291,
+            "actual_finish_position": 12,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.37,
+            "actual_points": 0,
+            "predicted_points": 6.46
+        },
+        {
+            "race_id": 576,
+            "actual_finish_position": 17,
+            "predicted_finish_position": 7,
+            "finish_prediction_probability": 0.33,
+            "actual_points": 0,
+            "predicted_points": 3.19
+        },
+        {
+            "race_id": 694,
+            "actual_finish_position": 15,
+            "predicted_finish_position": 11,
+            "finish_prediction_probability": 0.53,
+            "actual_points": 0,
+            "predicted_points": 3.58
+        },
+        {
+            "race_id": 588,
+            "actual_finish_position": 9,
+            "predicted_finish_position": 13,
+            "finish_prediction_probability": 0.17,
+            "actual_points": 2,
+            "predicted_points": 4.06
+        },
+        {
+            "race_id": 874,
+            "actual_finish_position": 15,
+            "predicted_finish_position": 18,
+            "finish_prediction_probability": 0.23,
+            "actual_points": 0,
+            "predicted_points": 6.67
+        },
+        {
+            "race_id": 628,
+            "actual_finish_position": 9,
+            "predicted_finish_position": 17,
+            "finish_prediction_probability": 0.36,
+            "actual_points": 2,
+            "predicted_points": 4.0
+        },
+        {
+            "race_id": 344,
+            "actual_finish_position": 5,
+            "predicted_finish_position": 4,
+            "finish_prediction_probability": 0.12,
+            "actual_points": 10,
+            "predicted_points": 5.47
+        },
+        {
+            "race_id": 33,
+            "actual_finish_position": 14,
+            "predicted_finish_position": 18,
+            "finish_prediction_probability": 0.22,
+            "actual_points": 0,
+            "predicted_points": 5.27
+        },
+        {
+            "race_id": 31,
+            "actual_finish_position": 12,
+            "predicted_finish_position": 5,
+            "finish_prediction_probability": 0.23,
+            "actual_points": 0,
+            "predicted_points": 7.48
+        },
+        {
+            "race_id": 723,
+            "actual_finish_position": 4,
+            "predicted_finish_position": 1,
+            "finish_prediction_probability": 0.35,
+            "actual_points": 12,
+            "predicted_points": 12.41
+        },
+        {
+            "race_id": 713,
+            "actual_finish_position": 14,
+            "predicted_finish_position": 8,
+            "finish_prediction_probability": 0.3,
+            "actual_points": 0,
+            "predicted_points": 4.2
+        },
+        {
+            "race_id": 497,
+            "actual_finish_position": 18,
+            "predicted_finish_position": 4,
+            "finish_prediction_probability": 0.16,
+            "actual_points": 0,
+            "predicted_points": 6.83
+        },
+        {
+            "race_id": 211,
+            "actual_finish_position": 12,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.34,
+            "actual_points": 0,
+            "predicted_points": 7.65
+        },
+        {
+            "race_id": 109,
+            "actual_finish_position": 10,
+            "predicted_finish_position": 2,
+            "finish_prediction_probability": 0.29,
+            "actual_points": 1,
+            "predicted_points": 7.72
+        },
+        {
+            "race_id": 77,
+            "actual_finish_position": 18,
+            "predicted_finish_position": 2,
+            "finish_prediction_probability": 0.57,
+            "actual_points": 0,
+            "predicted_points": 14.48
+        },
+        {
+            "race_id": 266,
+            "actual_finish_position": 7,
+            "predicted_finish_position": 7,
+            "finish_prediction_probability": 0.25,
+            "actual_points": 6,
+            "predicted_points": 6.21
+        },
+        {
+            "race_id": 82,
+            "actual_finish_position": 3,
+            "predicted_finish_position": 20,
+            "finish_prediction_probability": 0.25,
+            "actual_points": 15,
+            "predicted_points": 7.55
+        },
+        {
+            "race_id": 305,
+            "actual_finish_position": 6,
+            "predicted_finish_position": 19,
+            "finish_prediction_probability": 0.19,
+            "actual_points": 8,
+            "predicted_points": 7.37
+        },
+        {
+            "race_id": 408,
+            "actual_finish_position": 9,
+            "predicted_finish_position": 18,
+            "finish_prediction_probability": 0.17,
+            "actual_points": 2,
+            "predicted_points": 3.16
+        },
+        {
+            "race_id": 602,
+            "actual_finish_position": 3,
+            "predicted_finish_position": 11,
+            "finish_prediction_probability": 0.27,
+            "actual_points": 15,
+            "predicted_points": 3.51
+        },
+        {
+            "race_id": 634,
+            "actual_finish_position": 15,
+            "predicted_finish_position": 11,
+            "finish_prediction_probability": 0.16,
+            "actual_points": 0,
+            "predicted_points": 5.37
+        },
+        {
+            "race_id": 294,
+            "actual_finish_position": 15,
+            "predicted_finish_position": 10,
+            "finish_prediction_probability": 0.55,
+            "actual_points": 0,
+            "predicted_points": 3.95
+        },
+        {
+            "race_id": 362,
+            "actual_finish_position": 3,
+            "predicted_finish_position": 9,
+            "finish_prediction_probability": 0.22,
+            "actual_points": 15,
+            "predicted_points": 5.47
+        },
+        {
+            "race_id": 5,
+            "actual_finish_position": 6,
+            "predicted_finish_position": 10,
+            "finish_prediction_probability": 0.21,
+            "actual_points": 8,
+            "predicted_points": 4.19
+        },
+        {
+            "race_id": 54,
+            "actual_finish_position": 15,
+            "predicted_finish_position": 1,
+            "finish_prediction_probability": 0.14,
+            "actual_points": 0,
+            "predicted_points": 4.05
+        },
+        {
+            "race_id": 781,
+            "actual_finish_position": 2,
+            "predicted_finish_position": 8,
+            "finish_prediction_probability": 0.17,
+            "actual_points": 18,
+            "predicted_points": 3.7
+        },
+        {
+            "race_id": 669,
+            "actual_finish_position": 10,
+            "predicted_finish_position": 4,
+            "finish_prediction_probability": 0.18,
+            "actual_points": 1,
+            "predicted_points": 7.33
+        },
+        {
+            "race_id": 464,
+            "actual_finish_position": 5,
+            "predicted_finish_position": 11,
+            "finish_prediction_probability": 0.31,
+            "actual_points": 10,
+            "predicted_points": 2.19
+        },
+        {
+            "race_id": 767,
+            "actual_finish_position": 8,
+            "predicted_finish_position": 18,
+            "finish_prediction_probability": 0.17,
+            "actual_points": 4,
+            "predicted_points": 0.84
+        },
+        {
+            "race_id": 97,
+            "actual_finish_position": 18,
+            "predicted_finish_position": 16,
+            "finish_prediction_probability": 0.33,
+            "actual_points": 0,
+            "predicted_points": 4.07
+        },
+        {
+            "race_id": 668,
+            "actual_finish_position": 9,
+            "predicted_finish_position": 20,
+            "finish_prediction_probability": 0.17,
+            "actual_points": 2,
+            "predicted_points": 6.67
+        },
+        {
+            "race_id": 842,
+            "actual_finish_position": 3,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.14,
+            "actual_points": 15,
+            "predicted_points": 7.82
+        },
+        {
+            "race_id": 417,
+            "actual_finish_position": 18,
+            "predicted_finish_position": 11,
+            "finish_prediction_probability": 0.26,
+            "actual_points": 0,
+            "predicted_points": 6.99
+        },
+        {
+            "race_id": 494,
+            "actual_finish_position": 15,
+            "predicted_finish_position": 14,
+            "finish_prediction_probability": 0.15,
+            "actual_points": 0,
+            "predicted_points": 1.97
+        },
+        {
+            "race_id": 25,
+            "actual_finish_position": 6,
+            "predicted_finish_position": 2,
+            "finish_prediction_probability": 0.16,
+            "actual_points": 8,
+            "predicted_points": 7.06
+        },
+        {
+            "race_id": 84,
+            "actual_finish_position": 5,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.2,
+            "actual_points": 10,
+            "predicted_points": 5.24
+        },
+        {
+            "race_id": 10,
+            "actual_finish_position": 11,
+            "predicted_finish_position": 2,
+            "finish_prediction_probability": 0.25,
+            "actual_points": 0,
+            "predicted_points": 7.16
+        },
+        {
+            "race_id": 545,
+            "actual_finish_position": 6,
+            "predicted_finish_position": 20,
+            "finish_prediction_probability": 0.14,
+            "actual_points": 8,
+            "predicted_points": 3.97
+        },
+        {
+            "race_id": 736,
+            "actual_finish_position": 17,
+            "predicted_finish_position": 10,
+            "finish_prediction_probability": 0.37,
+            "actual_points": 0,
+            "predicted_points": 2.52
+        },
+        {
+            "race_id": 208,
+            "actual_finish_position": 9,
+            "predicted_finish_position": 18,
+            "finish_prediction_probability": 0.23,
+            "actual_points": 2,
+            "predicted_points": 2.84
+        },
+        {
+            "race_id": 662,
+            "actual_finish_position": 3,
+            "predicted_finish_position": 17,
+            "finish_prediction_probability": 0.32,
+            "actual_points": 15,
+            "predicted_points": 5.65
+        },
+        {
+            "race_id": 118,
+            "actual_finish_position": 19,
+            "predicted_finish_position": 18,
+            "finish_prediction_probability": 0.15,
+            "actual_points": 0,
+            "predicted_points": 5.3
+        },
+        {
+            "race_id": 275,
+            "actual_finish_position": 16,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.27,
+            "actual_points": 0,
+            "predicted_points": 8.42
+        },
+        {
+            "race_id": 300,
+            "actual_finish_position": 1,
+            "predicted_finish_position": 2,
+            "finish_prediction_probability": 0.16,
+            "actual_points": 25,
+            "predicted_points": 6.86
+        },
+        {
+            "race_id": 29,
+            "actual_finish_position": 10,
+            "predicted_finish_position": 18,
+            "finish_prediction_probability": 0.25,
+            "actual_points": 1,
+            "predicted_points": 6.58
+        },
+        {
+            "race_id": 821,
+            "actual_finish_position": 2,
+            "predicted_finish_position": 11,
+            "finish_prediction_probability": 0.18,
+            "actual_points": 18,
+            "predicted_points": 3.38
+        },
+        {
+            "race_id": 581,
+            "actual_finish_position": 2,
+            "predicted_finish_position": 17,
+            "finish_prediction_probability": 0.32,
+            "actual_points": 18,
+            "predicted_points": 2.45
+        },
+        {
+            "race_id": 239,
+            "actual_finish_position": 20,
+            "predicted_finish_position": 2,
+            "finish_prediction_probability": 0.37,
+            "actual_points": 0,
+            "predicted_points": 10.38
+        },
+        {
+            "race_id": 483,
+            "actual_finish_position": 4,
+            "predicted_finish_position": 6,
+            "finish_prediction_probability": 0.2,
+            "actual_points": 12,
+            "predicted_points": 12.94
+        },
+        {
+            "race_id": 351,
+            "actual_finish_position": 12,
+            "predicted_finish_position": 2,
+            "finish_prediction_probability": 0.16,
+            "actual_points": 0,
+            "predicted_points": 12.15
+        },
+        {
+            "race_id": 81,
+            "actual_finish_position": 2,
+            "predicted_finish_position": 1,
+            "finish_prediction_probability": 0.21,
+            "actual_points": 18,
+            "predicted_points": 6.69
+        }
+    ],
+    "finish_position_metrics": {
+        "mean_absolute_error": 6.619318181818182,
+        "accuracy": 0.011363636363636364,
+        "classification_report": {
+            "1": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 5.0
+            },
+            "2": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 7.0
+            },
+            "3": {
+                "precision": 0.25,
+                "recall": 0.1,
+                "f1-score": 0.14285714285714285,
+                "support": 10.0
+            },
+            "4": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 11.0
+            },
+            "5": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 7.0
+            },
+            "6": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 8.0
+            },
+            "7": {
+                "precision": 0.14285714285714285,
+                "recall": 0.1111111111111111,
+                "f1-score": 0.125,
+                "support": 9.0
+            },
+            "8": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 8.0
+            },
+            "9": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 12.0
+            },
+            "10": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 11.0
+            },
+            "11": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 12.0
+            },
+            "12": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 10.0
+            },
+            "13": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 11.0
+            },
+            "14": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 8.0
+            },
+            "15": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 9.0
+            },
+            "16": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 7.0
+            },
+            "17": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 12.0
+            },
+            "18": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 6.0
+            },
+            "19": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 7.0
+            },
+            "20": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 6.0
+            },
+            "accuracy": 0.011363636363636364,
+            "macro avg": {
+                "precision": 0.019642857142857142,
+                "recall": 0.010555555555555556,
+                "f1-score": 0.013392857142857142,
+                "support": 176.0
+            },
+            "weighted avg": {
+                "precision": 0.02150974025974026,
+                "recall": 0.011363636363636364,
+                "f1-score": 0.01450892857142857,
+                "support": 176.0
+            }
+        }
+    },
+    "points_prediction_metrics": {
+        "mean_squared_error": 51.81034147727273,
+        "mean_absolute_error": 6.056306818181818,
+        "r2_score": -0.22860843326269897
+    },
+    "finish_position_feature_importance": [
+        {
+            "feature": "driver_id",
+            "importance": 0.23789438972896967
+        },
+        {
+            "feature": "grid_position",
+            "importance": 0.2154779854437128
+        },
+        {
+            "feature": "humidity",
+            "importance": 0.15035878614861323
+        },
+        {
+            "feature": "temperature",
+            "importance": 0.15031092457218012
+        },
+        {
+            "feature": "track_temperature",
+            "importance": 0.14892995890015426
+        },
+        {
+            "feature": "pit_stops",
+            "importance": 0.09702795520636996
+        }
+    ],
+    "points_prediction_feature_importance": [
+        {
+            "feature": "driver_id",
+            "importance": 0.2462721376518911
+        },
+        {
+            "feature": "grid_position",
+            "importance": 0.23210811637469234
+        },
+        {
+            "feature": "humidity",
+            "importance": 0.1456813686751702
+        },
+        {
+            "feature": "track_temperature",
+            "importance": 0.13227705829167127
+        },
+        {
+            "feature": "temperature",
+            "importance": 0.1312409793449027
+        },
+        {
+            "feature": "pit_stops",
+            "importance": 0.11242033966167246
+        }
+    ]
+}

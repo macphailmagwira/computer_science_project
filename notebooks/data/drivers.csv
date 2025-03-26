@@ -1,0 +1,21 @@
+driver_id,name,nationality,team,age,world_championships
+1,Driver 1,Canadian,Mercedes,38,1
+2,Driver 2,Finnish,Alpha Tauri,29,1
+3,Driver 3,French,Williams,23,4
+4,Driver 4,Australian,Alpine,27,4
+5,Driver 5,Italian,McLaren,27,3
+6,Driver 6,Finnish,Mercedes,22,4
+7,Driver 7,Finnish,Haas,28,4
+8,Driver 8,French,Alpine,23,2
+9,Driver 9,British,McLaren,33,0
+10,Driver 10,British,Williams,29,4
+11,Driver 11,Canadian,Mercedes,35,1
+12,Driver 12,Canadian,Ferrari,26,0
+13,Driver 13,Finnish,Haas,36,0
+14,Driver 14,Mexican,Alpha Tauri,27,1
+15,Driver 15,French,Alpine,25,4
+16,Driver 16,Finnish,Red Bull Racing,24,4
+17,Driver 17,Italian,Red Bull Racing,31,4
+18,Driver 18,Italian,Williams,40,4
+19,Driver 19,Italian,Red Bull Racing,30,0
+20,Driver 20,French,Williams,36,0

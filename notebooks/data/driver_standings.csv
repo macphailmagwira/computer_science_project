@@ -1,0 +1,41 @@
+year,driver_id,driver_name,team,points_earned,driver_championship_position
+2022,4,Driver 4,Alpine,171,1.0
+2022,10,Driver 10,Williams,144,2.0
+2022,9,Driver 9,McLaren,143,3.0
+2022,1,Driver 1,Mercedes,141,4.0
+2022,15,Driver 15,Alpine,134,5.0
+2022,8,Driver 8,Alpine,131,6.0
+2022,7,Driver 7,Haas,130,7.0
+2022,3,Driver 3,Williams,127,8.0
+2022,17,Driver 17,Red Bull Racing,126,9.0
+2022,19,Driver 19,Red Bull Racing,121,10.0
+2022,20,Driver 20,Williams,103,11.0
+2022,5,Driver 5,McLaren,99,12.0
+2022,2,Driver 2,Alpha Tauri,98,13.0
+2022,14,Driver 14,Alpha Tauri,94,14.0
+2022,12,Driver 12,Ferrari,92,15.0
+2022,13,Driver 13,Haas,92,15.0
+2022,18,Driver 18,Williams,85,16.0
+2022,11,Driver 11,Mercedes,68,17.0
+2022,16,Driver 16,Red Bull Racing,62,18.0
+2022,6,Driver 6,Mercedes,61,19.0
+2023,4,Driver 4,Alpine,203,1.0
+2023,6,Driver 6,Mercedes,154,2.0
+2023,15,Driver 15,Alpine,139,3.0
+2023,8,Driver 8,Alpine,134,4.0
+2023,9,Driver 9,McLaren,132,5.0
+2023,10,Driver 10,Williams,132,5.0
+2023,16,Driver 16,Red Bull Racing,121,6.0
+2023,7,Driver 7,Haas,114,7.0
+2023,19,Driver 19,Red Bull Racing,114,7.0
+2023,11,Driver 11,Mercedes,112,8.0
+2023,14,Driver 14,Alpha Tauri,108,9.0
+2023,5,Driver 5,McLaren,102,10.0
+2023,20,Driver 20,Williams,99,11.0
+2023,13,Driver 13,Haas,96,12.0
+2023,12,Driver 12,Ferrari,87,13.0
+2023,1,Driver 1,Mercedes,82,14.0
+2023,17,Driver 17,Red Bull Racing,81,15.0
+2023,3,Driver 3,Williams,80,16.0
+2023,2,Driver 2,Alpha Tauri,69,17.0
+2023,18,Driver 18,Williams,63,18.0
